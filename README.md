@@ -29,3 +29,8 @@ git add .
 git commit -m "primeiro commit heroku"
 git push heroku master
 young-chamber-62445
+
+bd postgresql - 
+
+HEROKU CLI:
+heroku pg:psql postgresql-globular-98838 --app young-chamber-62445
