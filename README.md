@@ -34,3 +34,23 @@ bd postgresql -
 
 HEROKU CLI:
 heroku pg:psql postgresql-globular-98838 --app young-chamber-62445
+
+<br><br><br>
+<br><br><br><br>
+
+
+# Heroku
+<br>
+Heroku é uma plataforma de nuvem baseada em contêiner totalmente gerenciada, com serviços de dados integrados e um ecossistema poderoso, para implantar e executar aplicativos modernos. A experiência do desenvolvedor Heroku é baseada em uma abordagem centrada em aplicativos para entrega de software e se integra às ferramentas e fluxos de trabalho de desenvolvedor mais populares da atualidade.
+<br>
+Seus aplicativos são executados em contêineres inteligentes em um ambiente de tempo de execução totalmente gerenciado, lidamos com tudo o que é crítico para a produção - configuração, orquestração, balanceamento de carga, failovers, log, segurança e muito mais.
+<br>
+
+# PostgreSQL na nuvem
+<br>
+Usaremos o PostgreSQL como serviço confiável e seguro com fácil configuração, criptografia em repouso, dimensionamento simples, bifurcação de banco de dados, proteção contínua e muito mais.
+<br>
+
+# Referências Bibliográfica
+
+React - Uma biblioteca Javascript para criar interfaces de usuário.Acesso em 25/04/2022 as 14h55 pelo link: https://pt-br.reactjs.org/
