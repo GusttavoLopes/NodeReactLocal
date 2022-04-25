@@ -35,6 +35,42 @@ bd postgresql -
 HEROKU CLI:
 heroku pg:psql postgresql-globular-98838 --app young-chamber-62445
 
+<br><br>
+# Atividade Proposta
+<body>
+ <h1>Requisitos da aplicação:</h1>
+ <h2> a) Back-end:</h2>
+<ul>
+ <li> i. O servidor deverá ser codificado em NodeJS;
+<li> ii. O servidor deverá ser entregue rodando na nuvem – sugere-se usar o Heroku;
+<li> iii. Persistir os dados no SGBD PostgreSQL – sugere-se usar o SGBD do Heroku ou ElephantSQL;
+<li> iv. O login de usuário deverá ser validado no servidor. O servidor deverá gerar um token sem data de
+expiração e enviar para o cliente. O cliente enviará o token a cada requisição;
+<li> v. O BD deverá ter uma tabela para manter o cadastro de usuário formado por e-mail e senha;
+<li> vi. O BD deverá ter uma tabela para manter as coordenadas e horário que o usuário se encontra.
+ </ul>
+ <br>
+ <h2> b) Front-end: </h2>
+ <ul>
+<li> i. A interface de usuário deverá ser codificada em React Native;
+<li> ii. O aplicativo deverá ter as seguintes telas/funcionalidades:
+<p>O usuário efetua o próprio cadastro;</p>
+<p>O usuário altera o seu e-mail e senha;</p>
+<p>O usuário faz o login – o token de login gerado pelo servidor deverá ser armazenado no
+aplicativo e um novo login só deverá ser solicitado quando este token deixar de ser válido;
+<p>O usuário poderá iniciar o rastreamento. O rastreamento deverá ser executado como tarefa,
+isto é, ele roda em background mesmo quando o aplicativo está desligado.O rastreamento
+faz a coleta das coordenadas atuais do dispositivo a cada 30 segundos e envia para o servidor
+salvar no BD. Cada registro de localização é formado pelas coordenadas (latitude e longitude)
+e data e horário da coleta;</p>
+<p>O usuário poderá parar o rastreamento;</p>
+<p>O usuário poderá efetuar o logout – o token de login armazenado no aplicativo deverá ser
+destruído;</p>
+<p>O usuário poderá visualizar sobre um mapa interativo as suas localizações em um intervalo
+ de tempo fornecido pelo usuário.</p>
+ </ul>
+</body>
+
 <br><br><br>
 # Endereço da API React
 https://young-chamber-62445.herokuapp.com/
