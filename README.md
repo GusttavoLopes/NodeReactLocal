@@ -36,10 +36,29 @@ HEROKU CLI:
 heroku pg:psql postgresql-globular-98838 --app young-chamber-62445
 
 <br><br>
-# Atividade Proposta
+
+
+# Sumário
+
+   * [Sobre](#Atividade-Proposta)
+   * [Back-End](#Back-End)
+   * [Front-End](#Front-End)
+   * [Endereço da Aplicação](#Endereço-da-API-React)
+
+   * [Como executar localmente](#como-executar-localmente)
+   * [Subir para o Heroku](#Subir-para-o-Heroku)
+      * [Pré-Requisitos](#pré-requisitos)
+      * [Servidor](#servidor)
+      * [Cliente](#cliente)
+   * [Tecnologias](#tecnologias)
+   * [Autores](#autores)
+
+## Atividade Proposta
 <body>
  <h1>Requisitos da aplicação:</h1>
- <h2> a) Back-end:</h2>
+ 
+ ## Back-end
+ 
 <ul>
  <li> i. O servidor deverá ser codificado em NodeJS;
 <li> ii. O servidor deverá ser entregue rodando na nuvem – sugere-se usar o Heroku;
@@ -50,7 +69,9 @@ expiração e enviar para o cliente. O cliente enviará o token a cada requisiç
 <li> vi. O BD deverá ter uma tabela para manter as coordenadas e horário que o usuário se encontra.
  </ul>
  <br>
- <h2> b) Front-end: </h2>
+ 
+  ## Front-end 
+ 
  <ul>
 <li> i. A interface de usuário deverá ser codificada em React Native;
 <li> ii. O aplicativo deverá ter as seguintes telas/funcionalidades:
@@ -73,21 +94,39 @@ destruído;</p>
 
 <br><br><br>
 
-# Endereço da API React
+## Endereço da API React
 <div align="center">
   <link:https://young-chamber-62445.herokuapp.com/ />
 </div>
 
-# Sumário
+## Abrir localmente
+```
+npx create-react-app my-app
+cd my-app
+npm start
+npm run dev
+http://localhost:3000
+```
+## Subir para o Heroku
 
-   * [Sobre](#my App)
-   * [Sumário](#sumário)
-   * [Como executar localmente](#como-executar-localmente)
-      * [Pré-Requisitos](#pré-requisitos)
-      * [Servidor](#servidor)
-      * [Cliente](#cliente)
-   * [Tecnologias](#tecnologias)
-   * [Autores](#autores)
+```
+git remote -v
+git status
+git remote add heroku https://git.heroku.com/young-chamber-62445.git
+git add .
+git commit -m "primeiro commit heroku"
+git push heroku master
+```
+<br><br><br><br>
+##Pré-Requisitos:
+Node 14.0.0 
+create-react-app, Express e o pacote Concurrently.
+```
+npm install -g create-react-app
+create-react-app node-react
+npm install express --save
+npm install -g concurrently
+```
 
 <br><br><br><br>
 
