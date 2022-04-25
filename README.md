@@ -44,14 +44,16 @@ heroku pg:psql postgresql-globular-98838 --app young-chamber-62445
    * [Back-End](#Back-End)
    * [Front-End](#Front-End)
    * [Endereço da Aplicação](#Endereço-da-API-React)
-
    * [Como executar localmente](#como-executar-localmente)
    * [Subir para o Heroku](#Subir-para-o-Heroku)
-      * [Pré-Requisitos](#pré-requisitos)
-      * [Servidor](#servidor)
-      * [Cliente](#cliente)
+   * [Pré-Requisitos](#pré-requisitos)
+      
    * [Tecnologias](#tecnologias)
    * [Autores](#autores)
+
+
+* [Servidor](#servidor)
+      * [Cliente](#cliente)
 
 ## Atividade Proposta
 <body>
@@ -99,7 +101,7 @@ destruído;</p>
   <link:https://young-chamber-62445.herokuapp.com/ />
 </div>
 
-## Abrir localmente
+## Como executar localmente
 ```
 npx create-react-app my-app
 cd my-app
@@ -118,7 +120,7 @@ git commit -m "primeiro commit heroku"
 git push heroku master
 ```
 <br><br><br><br>
-##Pré-Requisitos:
+##pré-Requisitos:
 Node 14.0.0 
 create-react-app, Express e o pacote Concurrently.
 ```
@@ -129,7 +131,7 @@ npm install -g concurrently
 ```
 
 <br><br><br><br>
-
+##tecnologias
 # NODE JS
 <br>
 O Node.js pode ser definido como um ambiente de execução Javascript server-side.
