@@ -23,4 +23,9 @@ heroku config:add \ HEROKU_OAUTH_ID=23e66083-fd5e-4c65-97d5-d8d77d88738a \ HEROK
 
 
 git remote -v
+git status
+git remote add heroku https://git.heroku.com/young-chamber-62445.git
+git add .
+git commit -m "primeiro commit heroku"
+git push heroku master
 young-chamber-62445
