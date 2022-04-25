@@ -72,8 +72,23 @@ destruído;</p>
 </body>
 
 <br><br><br>
+
 # Endereço da API React
-https://young-chamber-62445.herokuapp.com/
+<div align="center">
+  <link:https://young-chamber-62445.herokuapp.com/ />
+</div>
+
+# Sumário
+
+   * [Sobre](#my App)
+   * [Sumário](#sumário)
+   * [Como executar localmente](#como-executar-localmente)
+      * [Pré-Requisitos](#pré-requisitos)
+      * [Servidor](#servidor)
+      * [Cliente](#cliente)
+   * [Tecnologias](#tecnologias)
+   * [Autores](#autores)
+
 <br><br><br><br>
 
 # NODE JS
@@ -104,3 +119,11 @@ React - Uma biblioteca Javascript para criar interfaces de usuário.Acesso em 25
 HEROKU.Saiba mais sobre o conjunto de produtos que ssutentam a plataforma como serviço mais inovadora da atualidade.Acesso em 25/04/2022 as 15h10 pelo link: https://www-heroku-com.translate.goog/products?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc
  
  Node.js – O que é, como funciona e quais as vantagens.publicação do post em 05/09/2018 porlenon. Acesso em 25/04/22 ad 16hs pelo link: https://www.opus-software.com.br/node-js/
+ 
+ 
+# Autores
+ <table align="center">
+  <tr>
+   <td align="center"><a href="https://github.com/RobertaAb"><img src="https://img.myloview.com.br/posters/person-icon-with-share-symbol-vector-male-profile-avatar-in-a-glyph-pictogram-illustration-700-186722185.jpg" width="100px;" alt=""/><br /><sub><b>Roberta Cristina de Abreu<br>Dev</b></sub></a><br /><a href="https://github.com/BureauTech/BureAuto/commits?author=caiquesjc" title="Dev Team">:keyboard::desktop_computer::computer_mouse:</a></td>   
+    </tr>
+</table>
