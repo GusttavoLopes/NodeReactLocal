@@ -38,23 +38,18 @@ heroku pg:psql postgresql-globular-98838 --app young-chamber-62445
 <br><br>
 
 
-# Sumário
+# Atividade-Proposta
 
-   * [Sobre](#Atividade-Proposta)
    * [Back-End](#Back-End)
    * [Front-End](#Front-End)
    * [Endereço da Aplicação](#Endereço-da-API-React)
    * [Como executar localmente](#como-executar-localmente)
    * [Subir para o Heroku](#Subir-para-o-Heroku)
-   * [Pré-Requisitos](#Pré-requisitos)
-      
+   * [Pré-Requisitos](#Pré-requisitos)   
    * [Tecnologias](#Tecnologias)
    * [Referências Bibliográfica](#Referências-Bibliográficas)
    * [Autores](#autores)
 
-
-* [Servidor](#servidor)
-      * [Cliente](#cliente)
 
 ## Atividade Proposta
 <body>
@@ -71,7 +66,8 @@ expiração e enviar para o cliente. O cliente enviará o token a cada requisiç
 <li> v. O BD deverá ter uma tabela para manter o cadastro de usuário formado por e-mail e senha;
 <li> vi. O BD deverá ter uma tabela para manter as coordenadas e horário que o usuário se encontra.
  </ul>
- <br>
+ 
+<br><br>
  
   ## Front-end 
  
@@ -95,12 +91,14 @@ destruído;</p>
  </ul>
 </body>
 
-<br><br><br>
+<br><br>
 
 ## Endereço da API React
 <div align="center">
   <link:https://young-chamber-62445.herokuapp.com/ />
 </div>
+
+<br><br>
 
 ## Como executar localmente
 ```
@@ -110,6 +108,8 @@ npm start
 npm run dev
 http://localhost:3000
 ```
+<br><br>
+
 ## Subir para o Heroku
 
 ```
@@ -120,7 +120,8 @@ git add .
 git commit -m "primeiro commit heroku"
 git push heroku master
 ```
-<br><br><br><br>
+<br><br>
+
 ## Pré-Requisitos:
 Node 14.0.0 
 create-react-app, Express e o pacote Concurrently.
@@ -130,8 +131,8 @@ create-react-app node-react
 npm install express --save
 npm install -g concurrently
 ```
+<br><br>
 
-<br><br><br><br>
 ## Tecnologias
 # NODE JS
 <br>
@@ -140,6 +141,7 @@ O Node.js pode ser definido como um ambiente de execução Javascript server-sid
 Isso significa que com o Node.js é possível criar aplicações Javascript para rodar como uma aplicação standalone em uma máquina, não dependendo de um browser para a execução, como estamos acostumados.
 
 O principal motivo de sua adoção é a sua alta capacidade de escala. Além disso, sua arquitetura, flexibilidade e baixo custo, o tornam uma boa escolha para implementação de Microsserviços e componentes da arquitetura Serverless. Inclusive, os principais fornecedores de produtos e serviços Cloud já têm suporte para desenvolvimento de soluções escaláveis utilizando o Node.js.
+
 <b><br>
  
 # Heroku
@@ -147,14 +149,16 @@ O principal motivo de sua adoção é a sua alta capacidade de escala. Além dis
 Heroku é uma plataforma de nuvem baseada em contêiner totalmente gerenciada, com serviços de dados integrados e um ecossistema poderoso, para implantar e executar aplicativos modernos. A experiência do desenvolvedor Heroku é baseada em uma abordagem centrada em aplicativos para entrega de software e se integra às ferramentas e fluxos de trabalho de desenvolvedor mais populares da atualidade.
 <br>
 Seus aplicativos são executados em contêineres inteligentes em um ambiente de tempo de execução totalmente gerenciado, lidamos com tudo o que é crítico para a produção - configuração, orquestração, balanceamento de carga, failovers, log, segurança e muito mais.
-<br>
+ 
+<br><br>
 
 # PostgreSQL na nuvem
 <br>
 Usaremos o PostgreSQL como serviço confiável e seguro com fácil configuração, criptografia em repouso, dimensionamento simples, bifurcação de banco de dados, proteção contínua e muito mais.
-<br>
+ 
+<br><br>
 
-## Referências Bibliográfica
+## Referências Bibliográficas
 
 React - Uma biblioteca Javascript para criar interfaces de usuário.Acesso em 25/04/2022 as 14h55 pelo link: https://pt-br.reactjs.org/
 <br>
@@ -162,6 +166,7 @@ HEROKU.Saiba mais sobre o conjunto de produtos que ssutentam a plataforma como s
  
  Node.js – O que é, como funciona e quais as vantagens.publicação do post em 05/09/2018 porlenon. Acesso em 25/04/22 ad 16hs pelo link: https://www.opus-software.com.br/node-js/
  
+ <br><br>
  
 ## Autores
  <table align="center">
