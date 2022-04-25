@@ -47,7 +47,7 @@ heroku pg:psql postgresql-globular-98838 --app young-chamber-62445
    * [Subir para o Heroku](#Subir-para-o-Heroku)
    * [Pré-Requisitos](#Pré-requisitos)   
    * [Tecnologias](#Tecnologias)
-   * [Referências Bibliográfica](#Referências-Bibliográficas)
+   * [Referências Bibliográficas](#Referências-Bibliográficas)
    * [Autores](#autores)
 
 
@@ -94,9 +94,8 @@ destruído;</p>
 <br><br>
 
 ## Endereço da API React
-<div align="center">
-  <link:https://young-chamber-62445.herokuapp.com/ />
-</div>
+<br>
+[herokuapp.com](https://young-chamber-62445.herokuapp.com)
 
 <br><br>
 
