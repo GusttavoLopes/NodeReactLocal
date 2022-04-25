@@ -143,7 +143,7 @@ O principal motivo de sua adoção é a sua alta capacidade de escala. Além dis
 
 <b><br>
  
-# Heroku
+## Heroku
 <br>
 Heroku é uma plataforma de nuvem baseada em contêiner totalmente gerenciada, com serviços de dados integrados e um ecossistema poderoso, para implantar e executar aplicativos modernos. A experiência do desenvolvedor Heroku é baseada em uma abordagem centrada em aplicativos para entrega de software e se integra às ferramentas e fluxos de trabalho de desenvolvedor mais populares da atualidade.
 <br>
@@ -151,19 +151,19 @@ Seus aplicativos são executados em contêineres inteligentes em um ambiente de 
  
 <br><br>
 
-# PostgreSQL na nuvem
+## PostgreSQL na nuvem
 <br>
 Usaremos o PostgreSQL como serviço confiável e seguro com fácil configuração, criptografia em repouso, dimensionamento simples, bifurcação de banco de dados, proteção contínua e muito mais.
  
 <br><br>
 
 ## Referências Bibliográficas
-
-React - Uma biblioteca Javascript para criar interfaces de usuário.Acesso em 25/04/2022 as 14h55 pelo link: https://pt-br.reactjs.org/
 <br>
-HEROKU.Saiba mais sobre o conjunto de produtos que ssutentam a plataforma como serviço mais inovadora da atualidade.Acesso em 25/04/2022 as 15h10 pelo link: https://www-heroku-com.translate.goog/products?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc
+# React - Uma biblioteca Javascript para criar interfaces de usuário.Acesso em 25/04/2022 as 14h55 pelo link: https://pt-br.reactjs.org/
+<br>
+# HEROKU - Saiba mais sobre o conjunto de produtos que ssutentam a plataforma como serviço mais inovadora da atualidade.Acesso em 25/04/2022 as 15h10 pelo link: https://www-heroku-com.translate.goog/products?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc
  
- Node.js – O que é, como funciona e quais as vantagens.publicação do post em 05/09/2018 porlenon. Acesso em 25/04/22 ad 16hs pelo link: https://www.opus-software.com.br/node-js/
+# Node.js – O que é, como funciona e quais as vantagens.publicação do post em 05/09/2018 porlenon. Acesso em 25/04/22 ad 16hs pelo link: https://www.opus-software.com.br/node-js/
  
  <br><br>
  
