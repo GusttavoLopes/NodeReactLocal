@@ -54,3 +54,5 @@ Usaremos o PostgreSQL como serviço confiável e seguro com fácil configuraçã
 # Referências Bibliográfica
 
 React - Uma biblioteca Javascript para criar interfaces de usuário.Acesso em 25/04/2022 as 14h55 pelo link: https://pt-br.reactjs.org/
+<br>
+HEROKU.Saiba mais sobre o conjunto de produtos que ssutentam a plataforma como serviço mais inovadora da atualidade.Acesso em 25/04/2022 as 15h10 pelo link: https://www-heroku-com.translate.goog/products?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc
