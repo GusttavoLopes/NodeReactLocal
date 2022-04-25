@@ -49,6 +49,7 @@ heroku pg:psql postgresql-globular-98838 --app young-chamber-62445
    * [Pré-Requisitos](#pré-requisitos)
       
    * [Tecnologias](#tecnologias)
+   * [Referências Bibliográfica](#Referências-Bibliográfica)
    * [Autores](#autores)
 
 
@@ -120,7 +121,7 @@ git commit -m "primeiro commit heroku"
 git push heroku master
 ```
 <br><br><br><br>
-##pré-Requisitos:
+## pré-Requisitos:
 Node 14.0.0 
 create-react-app, Express e o pacote Concurrently.
 ```
@@ -131,7 +132,7 @@ npm install -g concurrently
 ```
 
 <br><br><br><br>
-##tecnologias
+## tecnologias
 # NODE JS
 <br>
 O Node.js pode ser definido como um ambiente de execução Javascript server-side.
@@ -153,7 +154,7 @@ Seus aplicativos são executados em contêineres inteligentes em um ambiente de 
 Usaremos o PostgreSQL como serviço confiável e seguro com fácil configuração, criptografia em repouso, dimensionamento simples, bifurcação de banco de dados, proteção contínua e muito mais.
 <br>
 
-# Referências Bibliográfica
+## Referências Bibliográfica
 
 React - Uma biblioteca Javascript para criar interfaces de usuário.Acesso em 25/04/2022 as 14h55 pelo link: https://pt-br.reactjs.org/
 <br>
@@ -162,7 +163,7 @@ HEROKU.Saiba mais sobre o conjunto de produtos que ssutentam a plataforma como s
  Node.js – O que é, como funciona e quais as vantagens.publicação do post em 05/09/2018 porlenon. Acesso em 25/04/22 ad 16hs pelo link: https://www.opus-software.com.br/node-js/
  
  
-# Autores
+## Autores
  <table align="center">
   <tr>
    <td align="center"><a href="https://github.com/RobertaAb"><img src="https://img.myloview.com.br/posters/person-icon-with-share-symbol-vector-male-profile-avatar-in-a-glyph-pictogram-illustration-700-186722185.jpg" width="100px;" alt=""/><br /><sub><b>Roberta Cristina de Abreu<br>Dev</b></sub></a><br /><a href="https://github.com/BureauTech/BureAuto/commits?author=caiquesjc" title="Dev Team">:keyboard::desktop_computer::computer_mouse:</a></td>   
