@@ -36,6 +36,8 @@ HEROKU CLI:
 heroku pg:psql postgresql-globular-98838 --app young-chamber-62445
 
 <br><br><br>
+# Endereço da API React
+https://young-chamber-62445.herokuapp.com/
 <br><br><br><br>
 
 
